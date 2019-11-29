@@ -1,0 +1,11 @@
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.deps.json
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.json
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.dev.json
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.dll
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.pdb
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csprojAssemblyReference.cache
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfoInputs.cache
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfo.cs
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.dll
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/csharp_fundamentals/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.pdb
